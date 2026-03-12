@@ -1,0 +1,8 @@
+order_id,order_date,customer_id,product,quantity,unit_price,payment_method
+1,05-01-2024,101,Laptop,1,60000,UPI
+2,06-01-2024,102,Mobile,1,20000,Card
+3,10-01-2024,101,Mouse,2,500,UPI
+4,01-02-2024,103,TV,1,40000,NetBanking
+5,10-02-2024,101,Keyboard,1,1500,UPI
+6,01-03-2024,104,Headphones,2,2500,Card
+7,05-03-2024,102,Charger,1,1000,Card

@@ -1,0 +1,23 @@
+# Sales Performance Dashboard
+
+## Project Overview
+This project analyzes sales performance using Power BI to identify revenue trends and profitability.
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+
+## Key Insights
+- Total Sales: 3M
+- Total Profit: 528K
+- Profit Margin: 20%
+
+## Dashboard Features
+- Sales by Region
+- Category Performance
+- Monthly Sales Trend
+- KPI Cards for Revenue and Profit
+
+## Outcome
+The dashboard helps stakeholders monitor business performance and make data-driven decisions.

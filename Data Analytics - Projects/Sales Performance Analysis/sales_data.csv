@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,cost,region
+1001,05-01-2023,C001,Laptop,Electronics,1,60000,50000,South
+1002,07-01-2023,C002,Mobile,Electronics,2,20000,15000,North
+1003,10-02-2023,C003,Chair,Furniture,4,3000,2000,East
+1004,15-02-2023,C001,Table,Furniture,1,8000,6000,South
+1005,12-03-2023,C004,Headphones,Electronics,3,2500,1800,West
+1006,20-03-2023,C005,Mobile,Electronics,1,22000,17000,North
